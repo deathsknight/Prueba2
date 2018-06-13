@@ -1,0 +1,50 @@
+
+
+body,empresa{
+    background-image: url("FondoPantalla.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;       
+}
+
+img {
+    border-radius: 8px;
+}
+
+h1,empresa{
+    color: black;
+}
+
+div.a{
+    font-size: 65px;
+    color:turquoise;
+}
+
+footer{
+    padding: 0px;
+    background-color: turquoise;
+    border-radius: 10px;
+}
+
+p, body{
+    color:turquoise;
+}
+
+img,galeria{
+    height: 150px;
+    width: 20%;
+}
+<!--pag empresa-->
+
+div.b{
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+}
+a{
+    color: black;
+}
+
+
+
