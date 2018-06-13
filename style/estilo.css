@@ -1,0 +1,50 @@
+
+
+body,empresa{
+    background-image: url("inicioC.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;       
+}
+
+img {
+    border-radius: 8px;
+}
+
+h1,empresa{
+    color: white;
+}
+
+div.a{
+    font-size: 65px;
+    color:white;
+}
+
+footer{
+    padding: 0px;
+    background-color: #000080;
+    border-radius: 10px;
+}
+
+p, body{
+    color:white;
+}
+
+img,galeria{
+    height: 150px;
+    width: 20%;
+}
+<!--pag empresa-->
+
+div.b{
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+}
+a{
+    color: black;
+}
+
+
+
